@@ -1,0 +1,12 @@
+.project
+/.settings
+/logs
+.classpath
+/target
+dependency-reduced-pom.xml
+*.settings
+*/bin
+*/*.log
+*/.myeclipse
+.myumldata
+*/logs
